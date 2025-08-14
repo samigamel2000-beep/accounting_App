@@ -1,0 +1,3 @@
+# ملفات vcpkg
+vcpkg-master.zip
+*.zip  # إذا أردت تجاهل جميع ملفات ZIP
